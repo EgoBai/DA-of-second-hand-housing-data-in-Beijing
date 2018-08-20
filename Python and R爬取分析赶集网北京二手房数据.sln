@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python and R爬取分析赶集网北京二手房数据", "Python and R爬取分析赶集网北京二手房数据\Python and R爬取分析赶集网北京二手房数据.pyproj", "{45E08B99-F530-4D25-A15B-07730C733DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E08B99-F530-4D25-A15B-07730C733DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E08B99-F530-4D25-A15B-07730C733DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F1CD573-B496-43AF-A789-0F1AEF2ECB31}
+	EndGlobalSection
+EndGlobal
